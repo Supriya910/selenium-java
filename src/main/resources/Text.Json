@@ -1,0 +1,16 @@
+{
+      "Testing": {
+      "functional_testing": {
+      "test_type": [
+          "Sanity Testing",
+          "Smoke Testing"
+          ]
+        },
+      "non_functional_testing": {
+      "test_type": [
+          "Security Testing",
+          "Performance Testing"
+          ]
+        }
+      } 
+  } 

@@ -1,0 +1,11 @@
+<Testing>
+	<functional_testing>
+			<test_type>Sanity Testing</test_type>
+			<test_type>Smoke Testing</test_type>
+	</functional_testing>
+	
+	<non_functional_testing>
+			<test_type>Security Testing</test_type>
+			<test_type>Performance Testing</test_type>
+	</non_functional_testing>
+</Testing>
